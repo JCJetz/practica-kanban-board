@@ -1,0 +1,9 @@
+.app {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    overflow: hidden;
+}
+
+/* .main-board__envelop {
+    /* height: calc(100vh - 230px); */
